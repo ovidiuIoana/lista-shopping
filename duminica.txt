@@ -1,4 +1,4 @@
-+lapte
++lapte 1.5%
 paine
 oua
 ceai negru
@@ -6,4 +6,4 @@ tort
 suc
 coifuri
 cafeaa
-
+pasta de dinti
