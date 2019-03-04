@@ -1,0 +1,2 @@
+# lista-shopping
+lista cumparaturi
